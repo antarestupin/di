@@ -1,5 +1,7 @@
 # di: Simple Go DI container
 
+[![Build Status](https://travis-ci.org/antarestupin/di.svg?branch=master)](https://travis-ci.org/antarestupin/di)
+
 This package provides a very simple container to use for adding dependency injection in your app.
 
 ## Install
